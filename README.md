@@ -9,9 +9,14 @@ flames_reactjs
 
 ## Development
 
+
+### `npm install`
+
+
 ### `npm start`
 
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
+
